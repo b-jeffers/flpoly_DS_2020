@@ -1,23 +1,23 @@
-## First Name Last Name
+## Brett Jeffers
 
-### Spring 2020 
+### Spring 2020
 
-Data Science student at [Florida Polytechnic University](https://www.floridapoly.edu) currently enrolled in: 
+Data Science student at [Florida Polytechnic University](https://www.floridapoly.edu) currently enrolled in:
 
-- Course 1
+- Introduction to Data Science
 
-- Course 2
+- Law, Public Policy, Negotiation, and Business
 
-- Course 3
+- International & Comparative Dimensions of Business
 
-- Course 4
+- Principles of Macroeconomics
 
 **Hobbies:**
 
-I am _passionate about_: 
+I am _passionate about_:
 
-- Thing 1
+- Career
 
-- Thing 2
+- Dogs & Cats
 
-- Thing 3 as shown in this website <https://www.floridapoly.edu>
+- Programming & Data Science
