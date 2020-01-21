@@ -4,13 +4,12 @@
 
 Data Science student at [Florida Polytechnic University](https://www.floridapoly.edu) currently enrolled in:
 
-- Introduction to Data Science
-
-- Law, Public Policy, Negotiation, and Business
-
-- International & Comparative Dimensions of Business
-
-- Principles of Macroeconomics
+|**Prefix**|**Number**| _Name_                                               | Credits |
+|:--------:|:--------:|:----------------------------------------------------:|:-------:|
+| **COP**  | **2073** | _Introduction to Data Science_                       |    3    |
+| **BUL**  | **2241** | _Law, Public Policy, Negotiation, and Business_      |    3    |
+| **GEB**  | **3373** | _International & Comparative Dimensions of Business_ |    3    |
+| **ECO**  | **2013** | _Principles of Macroeconomics_                       |    3    |
 
 **Hobbies:**
 
